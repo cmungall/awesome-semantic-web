@@ -958,7 +958,9 @@ OS - OpenSource
 - [kglab](https://github.com/DerwenAI/kglab/) -  The kglab library provides a simple abstraction layer in Python for building knowledge graphs.
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs.
 - [Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models.
-- [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources. 
+- [semantic-python-overview](https://github.com/pysemtec/semantic-python-overview) - List of Python specific semantic web tools and resources.
+- [Ontology Access Kit (OAK)](https://github.com/INCATools/ontology-access-kit) - Fully featured python library and command line tool for ontologies, with an emphasis on OBO
+- [py-typedlogic](https://py-typedlogic.github.io/) - Allows for authoring ontologies in Python, as well as Python access to multiple rule engines and provers
 
 ### R
 
